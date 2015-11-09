@@ -17,4 +17,3 @@ build
 
 node_modules
 /coverage
-/lib/browser/client-scripts/gemini.calibrate.min.js
